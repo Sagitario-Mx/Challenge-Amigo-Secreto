@@ -10,22 +10,22 @@ Mi actividad de One G9 sobre el Challenge Amigo Secreto.
 
 - Ingresa los nombres de tus amigos participantes
 - El sorteo es aleatorio
-- ¡Descubre quien es tu amigo secreto!
+- ¡Descubre quién es tu amigo secreto!
 
 ## 💡 ¿Cómo funciona el juego Amigo Secreto?
 
 1. Escribe los nombres de tus amigos uno a uno en el campo de texto
-2. Haz click en el boton añadir y en pantalla apareceran los nombres de tus amigos participantes
-3. Una vez agregados todos tus amigos, presioná el botón "Sortear amigo"
+2. Haz clíck en el boton añadir y en pantalla apareceran los nombres de tus amigos participantes
+3. Una vez agregados todos tus amigos, presiona el botón "Sortear amigo"
 4. El juego muestra el resultado del nombre del amigo ganador
 
 ## 🧩 Características del juego Amigo Secreto?
 
 - 🎯 El sistema elegirá al azar al "Amigo Secreto"
-- 📝El juego no acepta duplicar nombres, pero el sistema te alerta en caso de 
-- 📝El juego acepta nombres acentuados
-- 📝No se aceptan nombres invalidos, espacios en blanco o caracteres diferentes a letras
-- 📝Puedes corregir en caso de ingresar caracteres inválidos el sistema te alerta para ello
+- 📝 El juego no acepta duplicar nombres, pero el sistema te alerta en caso de 
+- 📝 El juego acepta nombres acentuados
+- 📝 No se aceptan nombres invalidos, espacios en blanco o caracteres diferentes a letras
+- 📝 Puedes corregir en caso de ingresar caracteres inválidos el sistema te alerta para ello
 
 ¡Te invito a que utilices el juego y tengas una forma efectiva de sortear a tu Amigo Secreto!
 
@@ -41,7 +41,7 @@ Mi actividad de One G9 sobre el Challenge Amigo Secreto.
 ### Opción 1: Descarga
 
 1. Descarga todos los archivos
-2. Doble-click en `index.html`
+2. Doble-clíck en `index.html`
 3. Listo! Puedes ejecutar en tu navegador favorito
 
 ### Opción 2: Desde GitHub
@@ -86,8 +86,14 @@ Mi actividad de One G9 sobre el Challenge Amigo Secreto.
 
 ## Créditos
 
-Proyecto desaroollado durante el reto **Alura** Challenge Amigo Secreto
+## 👨‍💻 Autor
+
+y2k4@hotmail.com
+GitHub: Sagitario-Mx 
+
+Proyecto desarrollado durante el reto **Alura** Challenge Amigo Secreto
 
 ---
 
 *Uff! es mi primer proyecto de Java Script* 😉
+
