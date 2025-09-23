@@ -1,6 +1,6 @@
-# Alura G9 Challenge 🎁 Amigo Secreto
+# Challenge 🎁 Amigo Secreto
 
-Mi actividad de One G9 sobre el Challenge Amigo Secreto.
+Sobre el Challenge Amigo Secreto One G9
 
 ![alt text](./assets/image.png)
 
@@ -84,16 +84,18 @@ Mi actividad de One G9 sobre el Challenge Amigo Secreto.
     - 🌙 Tema Obscuro
     - 🔉 Efectos de Sonido
 
-## Créditos
-
 ## 👨‍💻 Autor
 
 y2k4@hotmail.com
 GitHub: Sagitario-Mx 
+
+
+## Créditos
 
 Proyecto desarrollado durante el reto **Alura** Challenge Amigo Secreto
 
 ---
 
 *Uff! es mi primer proyecto de Java Script* 😉
+
 
