@@ -86,16 +86,17 @@ Sobre el Challenge Amigo Secreto One G9
 
 ## 👨‍💻 Autor
 
-y2k4@hotmail.com
-GitHub: Sagitario-Mx 
+   y2k4@hotmail.com
+   GitHub: Sagitario-Mx 
 
 
 ## Créditos
 
-Proyecto desarrollado durante el reto **Alura** Challenge Amigo Secreto
+   Proyecto desarrollado durante el reto **Alura** Challenge Amigo Secreto
 
 ---
 
 *Uff! es mi primer proyecto de Java Script* 😉
+
 
 
